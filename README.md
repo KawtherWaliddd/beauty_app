@@ -1,4 +1,4 @@
-# Final ITI Project – Beauty App 💄
+# Beauty App 💄
 
 This Flutter app was developed as the final project for the ITI Mobile Development track. It showcases a responsive, modern beauty application with clean UI and practical features.
 
