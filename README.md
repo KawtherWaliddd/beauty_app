@@ -7,9 +7,9 @@ This project was developed as the **final project for ITI training**, focusing o
 
 ## 🚀 Features
 
-**Splash & Onboarding Screens** – Smooth introduction for first-time users  
-**Authentication** – Login & Signup using **api integration**  
-**Home Screen** – Displays featured and recent beauty products  
+*Splash & Onboarding Screens** – Smooth introduction for first-time users  
+*Authentication** – Login & Signup using **api integration**  
+*Home Screen** – Displays featured and recent beauty products  
 **Recent Products** – View the latest beauty products added  
 **Categories Screen** – Browse products by category  
 **All Categories View** – Explore all available beauty product categories  
@@ -42,3 +42,4 @@ All API calls are handled using **Dio** through a reusable `ApiClient` class.
    ```bash
    git clone https://github.com/yourusername/beauty_app.git
    cd beauty_app
+
