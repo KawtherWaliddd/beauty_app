@@ -1,5 +1,5 @@
 import 'package:final_iti/features/developer/data/developer_model.dart';
-import 'package:final_iti/features/developer/presentation/widgets/developer_iteam.dart';
+import 'package:final_iti/features/developer/presentation/views/widgets/developer_iteam.dart';
 
 import 'package:flutter/material.dart';
 

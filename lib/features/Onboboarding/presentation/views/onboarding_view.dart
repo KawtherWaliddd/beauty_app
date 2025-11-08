@@ -1,5 +1,4 @@
-
-import 'package:final_iti/features/Onboboarding/presentation/widgets/onboarding_items.dart';
+import 'package:final_iti/features/Onboboarding/presentation/views/widgets/onboarding_items.dart';
 import 'package:final_iti/features/auth/presentation/views/login_page.dart';
 
 import 'package:flutter/material.dart';
