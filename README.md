@@ -4,7 +4,7 @@ A **Flutter beauty application** to browse products, explore categories, and man
 
 ---
 
-## 🖼️ App Preview
+##  App Preview
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/259e20d2-3571-4d66-89d6-a0c887f92cf1" width="180"/>
@@ -46,3 +46,4 @@ git clone https://github.com/yourusername/beauty_app.git
 cd beauty_app
 flutter pub get
 flutter run
+
