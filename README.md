@@ -7,17 +7,18 @@ This project was developed as the **final project for ITI training**, focusing o
 
 ## 🚀 Features
 
-Splash & Onboarding Screens** – Smooth introduction for first-time users  
-Authentication** – Login & Signup using **api integration**  
-Home Screen** – Displays featured and recent beauty products  
-Recent Products** – View the latest beauty products added  
-Categories Screen** – Browse products by category  
-All Categories View** – Explore all available beauty product categories  
-Profile Screen** – Manage user information and view saved data  
-App Info** – About app and version details  
-Developer Contact** – Reach the developer directly from the app  
-Dio Integration** – REST API requests for dynamic content  
-Fully Responsive** – Works seamlessly on Android and iOS  
+Splash & Onboarding Screens – Smooth introduction for first-time users  
+Authentication – Login & Signup using **api integration**  
+Home Screen – Displays featured and recent beauty products  
+Recent Products – View the latest beauty products added  
+Categories Screen – Browse products by category  
+All Categories View – Explore all available beauty product categories  
+Profile Screen – Manage user information and view saved data  
+App Info – About app and version details  
+Developer Contact – Reach the developer directly from the app  
+Dio Integration – REST API requests for dynamic content  
+Fully Responsive – Works seamlessly on Android and iOS  
+
 ---
 
 ## 🏗️ Tech Stack
@@ -42,5 +43,6 @@ All API calls are handled using **Dio** through a reusable `ApiClient` class.
    ```bash
    git clone https://github.com/yourusername/beauty_app.git
    cd beauty_app
+
 
 
